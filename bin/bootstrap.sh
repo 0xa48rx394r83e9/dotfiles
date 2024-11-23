@@ -8,7 +8,7 @@ XDG_CONFIG_HOME=${XDG_CONFIG_HOME:-"$HOME"/.config} # Set if absent.
 DOTFILES_LOCATION="$HOME"/.dotfiles
 HOST_FILE_LOCATION="$DOTFILES_LOCATION/.nix-host"
 
-SSH_KEY_EMAIL_ADDRESS="me@rayhanadev.com"
+SSH_KEY_EMAIL_ADDRESS="joseph.paulmer@gmail.com"
 SSH_KEY_LOCATION="$HOME/.ssh/id_ed25519.pub"
 SSH_TYPE="ed25519"
 
